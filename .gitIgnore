@@ -1,0 +1,13 @@
+# API Keys and sensitive data
+config.json
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (optional - if you don't want to commit datasets)
+*.json
+!requirements.txt
