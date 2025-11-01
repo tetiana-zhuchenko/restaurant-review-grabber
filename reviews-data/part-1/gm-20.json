@@ -1,0 +1,62 @@
+[
+  {
+    "author": "Iaroslav Sethi",
+    "rating": 1,
+    "text": "Мафія подобається.\nЗамовляли піцу карбонара та салат з телятиною.\nВсе смачно!…",
+    "time": "рік тому",
+    "is_ukrainian": true,
+    "restaurant_name": "Mafia",
+    "restaurant_city": "Київ",
+    "scraped_at": "2025-07-30T14:30:10.538406"
+  },
+  {
+    "author": "Iaroslav Sethi",
+    "rating": 1,
+    "text": "Мафія подобається.\nЗамовляли піцу карбонара та салат з телятиною.\nВсе смачно!…",
+    "time": "рік тому",
+    "is_ukrainian": true,
+    "restaurant_name": "Mafia",
+    "restaurant_city": "Київ",
+    "scraped_at": "2025-07-30T14:30:10.538411"
+  },
+  {
+    "author": "Володимир Владимиров",
+    "rating": 1,
+    "text": "За пів години не підійшов жоден офіціант",
+    "time": "5 місяців тому",
+    "is_ukrainian": true,
+    "restaurant_name": "Mafia",
+    "restaurant_city": "Київ",
+    "scraped_at": "2025-07-30T14:30:10.538504"
+  },
+  {
+    "author": "Володимир Владимиров",
+    "rating": 1,
+    "text": "За пів години не підійшов жоден офіціант",
+    "time": "5 місяців тому",
+    "is_ukrainian": true,
+    "restaurant_name": "Mafia",
+    "restaurant_city": "Київ",
+    "scraped_at": "2025-07-30T14:30:10.538509"
+  },
+  {
+    "author": "Софія Сехна",
+    "rating": 1,
+    "text": "Жахливо  прочекали 1:20 піцу не дочекалися  хоча було 4 стола зайнято!!!!\nЯ нікому не рекомендую ходити в Мафію!!!!!",
+    "time": "рік тому",
+    "is_ukrainian": true,
+    "restaurant_name": "Mafia",
+    "restaurant_city": "Київ",
+    "scraped_at": "2025-07-30T14:30:10.538623"
+  },
+  {
+    "author": "Софія Сехна",
+    "rating": 1,
+    "text": "Жахливо  прочекали 1:20 піцу не дочекалися  хоча було 4 стола зайнято!!!!\nЯ нікому не рекомендую ходити в Мафію!!!!!",
+    "time": "рік тому",
+    "is_ukrainian": true,
+    "restaurant_name": "Mafia",
+    "restaurant_city": "Київ",
+    "scraped_at": "2025-07-30T14:30:10.538628"
+  }
+]

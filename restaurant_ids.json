@@ -1,0 +1,3802 @@
+[
+  {
+    "place_id": "ChIJpfiL0ELJ1EARDLluxUr6fpw",
+    "name": "МАМА МАНАНА ВДНГ",
+    "address": "вулиця Васильківська, 100а, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJKT9sxoLM1EAR8ycfZJ-e8mI",
+    "name": "Restaurant PARK",
+    "address": "Кільцева дорога, 19, Київ, 03179",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ04JuPUbN1EARVWGpwx-3aXE",
+    "name": "WorkEAT",
+    "address": "вулиця Марка Безручка, 24, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJp4LP95LP1EARnspizG4sgfk",
+    "name": "UNION",
+    "address": "вулиця Кирилівська, 37, 37-а, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJq0r4STLP1EARXeP5CE1ps8E",
+    "name": "La Carbonara",
+    "address": "бульвар Миколи Міхновського, 25а, Київ, 01042",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJl_NwtD7P1EARzpFkM-j_7uA",
+    "name": "Думки на Смак",
+    "address": "вул. Антоновича, 74, Київ, 01133",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJBXnk-RbM1EARU2oObv5PqeA",
+    "name": "Orly Park",
+    "address": "бульвар Вацлава Гавела, 9В, Київ, 03124",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJX4dpWHvO1EARPMfnxsa7cCs",
+    "name": "VINO e CUCINA",
+    "address": "вулиця Січових Стрільців, 82, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJu_dWOfDO1EARKsm_xtCOO_g",
+    "name": "Улюблений Дядя",
+    "address": "вулиця Паньківська, 20, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJw0O7Q1DO1EARxxUyvNkBeg8",
+    "name": "Дуже по-французьки",
+    "address": "вулиця Костьольна, 3, Київ, 01001",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ5_QryGHM1EARGr6oThqkmDk",
+    "name": "Spezzo",
+    "address": "вулиця Святошинська, 3А, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJCZjCcADN1EARlXncdT8e0bg",
+    "name": "Ресторан Життя як відпочинок",
+    "address": "вулиця Анатолія Петрицького, 13/135, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJu0wQo2nO1EAR64H_rvAPURI",
+    "name": "Oxota na Ovets",
+    "address": "вулиця Воздвиженська, 10б, Київ, 004071",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJkwI9YsXN1EARvH4Qj2DMbu8",
+    "name": "Ресторан СЕВАН",
+    "address": "бульвар Вацлава Гавела, 8, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJdxucv_7O1EAR4bOUtAS7tzQ",
+    "name": "Under Wonder",
+    "address": "вулиця Велика Васильківська, 21, Київ, 01004",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJCT8LqyfP1EAR0OvPuoTt7ko",
+    "name": "11 Mirrors Restaurant & Bar by FACE the Service",
+    "address": "34A, B.Khmelnytskogo St, Київ, 01030",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJp356GOnI1EAROei_0GFh_7o",
+    "name": "Ресторан \"Прага\"",
+    "address": "проспект Академіка Глушкова, 1, Київ, 03680",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJIWZJXObP1EARY3UZx0zDQzo",
+    "name": "Veranda на Січових",
+    "address": "вулиця Січових Стрільців, 76, Київ, 04050",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJswCavtbN1EARGo9X9P9vuTw",
+    "name": "Букет Côtelette",
+    "address": "вулиця Мрії, 16е, Київ, 04128",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ2VsfbVvM1EARSrVopb0w0Rg",
+    "name": "Тарас",
+    "address": "Берестейський проспект, 84 Б, Київ, 03190",
+    "city": "Київ",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ2Q7sI43P1EARDFQq3QBawBQ",
+    "name": "Rabbit Hole Cafe/Restaurant",
+    "address": "вулиця Еспланадна, 32, Київ, 01023",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJLSZAn4nM1EARHvOiF3sM3tg",
+    "name": "Д-Кава",
+    "address": "вулиця Верховинна, 18, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJobvprZHM1EARmKPbe2XnJus",
+    "name": "Pesto Cafe",
+    "address": "Берестейський проспект, 134/1, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJ___zzY3M1EARZVsHmzbrNZc",
+    "name": "Поминальна Святошин",
+    "address": "Берестейський проспект, 118, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJmZhtAjTN1EARGgCQ33-CHuU",
+    "name": "Barbara Food&Coffee Bar",
+    "address": "Берестейський проспект, 71А, Київ, 03062",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJ-3BDV13N1EARr-uI2LxsruM",
+    "name": "Кафе \"Вагон\"",
+    "address": "вулиця Святошинська, 23, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJYTHxXCbP1EARqoMuHw4Q9R8",
+    "name": "JUJU",
+    "address": "вулиця Євгена Чикаленка, 1-3, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJj5MtLVjO1EARO1QyBhuU79U",
+    "name": "Кафе Fandom",
+    "address": "вулиця Володимирська, 01-001, 49a, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJC5Am6VzO1EARKrr5cUF6qQw",
+    "name": "Косатка",
+    "address": "вулиця Велика Житомирська, 25/2, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJU44X9f7O1EARf8FPJSie660",
+    "name": "Milk Bar",
+    "address": "вулиця Шота Руставелі, 16, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJJ5UokUHO1EARQVYnY1TpeIo",
+    "name": "Друзі",
+    "address": "Андріївський узвіз, 2Д, Київ, 04070",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJt5ju2VnO1EARMj55IeVq-zs",
+    "name": "Хармс",
+    "address": "Будинок вчених, вулиця Володимирська, 45а, Київ, 01001",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJqe5k-vDP1EARuCyROnclyg0",
+    "name": "With love coffee space",
+    "address": "вулиця Михайлівська, 21, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJoy00IF7O1EARpeLYKUiFiHQ",
+    "name": "La Fabrique",
+    "address": "вулиця Бульварно-Кудрявська, 19, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJ7VG1RWvO1EARHiLgnX42-FU",
+    "name": "STORIES cafe",
+    "address": "вулиця Костянтинівська, 20/14, Київ, 04071",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJodr2XdbP1EARDpI0YsjpPbc",
+    "name": "дублер",
+    "address": "вулиця Іоанна Павла II, 10/1, Київ, 01042",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJs7LEU1nO1EARh0oZwcpYp84",
+    "name": "Ханей",
+    "address": "вулиця Ярославів Вал, 20, Київ, 01030",
+    "city": "Київ",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Київ"
+  },
+  {
+    "place_id": "ChIJVQHUYADN1EARV9QUcR2CLFI",
+    "name": "Pizza45",
+    "address": "вулиця Чорнобильська, 16, Київ, 03179",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJ1_Ke47zN1EARdu2xFk7hV2Q",
+    "name": "ART PIZZA",
+    "address": "бульвар Вацлава Гавела, 49, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJzSV9Im_N1EARXyA1pS1QBJA",
+    "name": "Pizza Day",
+    "address": "Берестейський проспект, 87, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJt6uiW6HN1EARU0zC45SxOWU",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Академіка Доброхотова, 11, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJ-2nlPaLN1EAR27Uf0a_NjzU",
+    "name": "ART PIZZA",
+    "address": "вулиця Мрії, 28, Київ, 04128",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJd2DY-m3N1EARbBSUwtBhgko",
+    "name": "Піцаманка - смачна неаполітанська піца на камені. Піца та піцерія Новобіличі. Пицца и пиццерия Новобеличи.",
+    "address": "вулиця Клавдіївська, 40Е, Київ, 03164",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJ2Ziwv6nL1EARUuP7vNZrVu8",
+    "name": "Піцерія IQ Pizza",
+    "address": "проспект Леся Курбаса, 6Г, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJxSlxf6_N1EARHjnYp5sAmZg",
+    "name": "MONOпіца",
+    "address": "Берестейський проспект, 67, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJzYlkx5HL1EARrZIZ5OSQdS4",
+    "name": "Піцерія \"Pizza45\" в Києві на Борщагівці піца45",
+    "address": "вулиця Зодчих, 50, Київ, 03162",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJK0g1gVrO1EAR_VpwugIKIPE",
+    "name": "Pizza Veterano",
+    "address": "вулиця Софіївська, 8, Київ, 01001",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJQRat0mHM1EARF3S86AGfaeg",
+    "name": "Domino's Pizza",
+    "address": "вулиця Святошинська, 3А, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJKT_ruu7N1EAR6Z_SuQXjoSg",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Мрії, 13, Київ, 04128",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJewFHcpDL1EARacmyqfFA_Pc",
+    "name": "Fan Pizza",
+    "address": "проспект Леся Курбаса, 16, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJ3Vh8v4PN1EARJpSgLU5kOrQ",
+    "name": "Люта піца",
+    "address": "Берестейський проспект, 65А, Київ, 01001",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJdXy70oTL1EARNJKhUeGo0bQ",
+    "name": "Bellissimo Pizza",
+    "address": "вулиця Симиренка, 5, Київ, 03134",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJS17s1JjP1EAR8l-KnvvLhEQ",
+    "name": "STATION PIZZA",
+    "address": "вулиця Нижній Вал, 35, Київ, 04071",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJ29q7GT3N1EARieTGe85-q00",
+    "name": "Домінос Піца",
+    "address": "вулиця Данила Щербаківського, 4, Київ, 03190",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJ0YVeNGHL1EARRqV1sP0IWG4",
+    "name": "MONOпіца",
+    "address": "вул. Івана Дзюби, 17, Київ, 03134",
+    "city": "Київ",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Київ"
+  },
+  {
+    "place_id": "ChIJxyEkTCjN1EAR-DxgtJrJRkg",
+    "name": "SALMON SUSHI",
+    "address": "Берестейський проспект, 109а, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJcQy7HCHN1EART4_VxZ-mP3Q",
+    "name": "SoKo Sushi",
+    "address": "вулиця Львівська, 15-Б, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJs_4_Sm_J1EARc9Kd0TjxWuc",
+    "name": "Sushi Point",
+    "address": "вулиця Святошинська, 1А, Київ, 03193",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJEzB7aT3P1EAR6HPkRP8d0nw",
+    "name": "Fish&Pussycat Sushi Bar",
+    "address": "вулиця Басейна, 5Б, Київ, 01004",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ2Qy0FBLN1EARivfTTctHgFE",
+    "name": "SALMON SUSHI",
+    "address": "вулиця Миколи Ушакова, 10, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJw2iahG_L1EARdtPdPGEibPI",
+    "name": "Доставка суші",
+    "address": "вулиця Володимира Покотила, 5, Київ, 03194",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJq87jOADP1EARkgByAlsccvg",
+    "name": "Osama sushi чорновола київ",
+    "address": "вулиця В'ячеслава Чорновола, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJk9CgcQHP1EARHeq3H38vjSs",
+    "name": "Sushi Icons, вул. Глибочицька 13",
+    "address": "вулиця Глибочицька, 13, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJZ_gP8DHN1EAReIIqeA50Ato",
+    "name": "Онлайн-суші",
+    "address": "проспект Степана Бандери, 21, Оболонський проспект, 47, Kyiv, 04073",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJI1d8LInL1EARsbr5chYMXIQ",
+    "name": "Томаха",
+    "address": "вул. Гната Юри, 20, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJdYVHSCnP1EAR0edPoYvAcyE",
+    "name": "Суші-бар \"Сусіди\"",
+    "address": "Берестейський проспект, 9, Київ, 01135",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJRVD0rV3P1EARLuveGJOy0sE",
+    "name": "Keta Sushi",
+    "address": "вулиця Татарська, 6, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJTd18bpLL1EAR2IwNBcPKUj0",
+    "name": "Томаха",
+    "address": "бул. Миколи Руденка, 14Ж, Київ, 03194",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJmzUmDWvN1EARTHgms1Xfxu0",
+    "name": "We Sushi",
+    "address": "вулиця Святошинська, 3А, Київ, 03115",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJG1pVnsbO1EARk9tYIk4HZUo",
+    "name": "Fujiwara YOSHI",
+    "address": "вулиця Солом'янська, 15A, Київ, 03110",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ-zV01LbO1EARJ829Z0agYxQ",
+    "name": "Sushi Point",
+    "address": "проспект Леся Курбаса, 4б, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJJVm_M1vM1EARrrNkPVLrOKE",
+    "name": "Євразія на Нивках: суші бар, доставка, самовивіз",
+    "address": "Берестейський проспект, 84В, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJc9-mpwDP1EARwt8oAWwI-XM",
+    "name": "Суші-Бар Рис і Риба",
+    "address": "вулиця Дегтярівська, 9, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJfbXHYADP1EARY4rWZhmKuHg",
+    "name": "Shibuya Sushi Kiosk",
+    "address": "вулиця Велика Васильківська, 111, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ5wAa4G7N1EARMo0X9dsxLoE",
+    "name": "ресторан \"У Деруна\"",
+    "address": "вулиця Миколи Ушакова, 1 Г, Київ, 03179",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ3Yf84FnO1EARvaDx8AL7bn4",
+    "name": "Мітла",
+    "address": "вулиця Прорізна, 21, Київ, 01034",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJG-uOFnXP1EARrtne8jgWKAA",
+    "name": "Царське село",
+    "address": "вулиця Лаврська, 22, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ_5oCh4zP1EARGOYCZLiG_Xw",
+    "name": "100 років тому вперед",
+    "address": "вулиця Володимирська, 4, Київ, 01001",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJk1Hmrv_O1EARoViZRK0Fmk8",
+    "name": "Petrus-ь",
+    "address": "вулиця Еспланадна, 28, Київ, 01023",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJZw7qnXXP1EARnMg_93OJPtI",
+    "name": "Glek",
+    "address": "вулиця Велика Житомирська, 6, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJWxt4AlHO1EARZEI_UKoMFXg",
+    "name": "Первак",
+    "address": "вулиця Рогнідинська, 2, Київ, 01024",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJESOe4z3O1EARCbPCBSUaw0c",
+    "name": "Хуторець на Дніпрі",
+    "address": "вул. Набережно-Хрещатицька, 10А, Київ, 04070",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJC-BGYhrP1EARjbpnVMcMVOY",
+    "name": "О'Панас",
+    "address": "вулиця Терещенківська, 10, Київ, 01004",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJMeLiFADM1EAR05cMMfYByb0",
+    "name": "Українські страви",
+    "address": "Відрадний проспект, 22, Київ, 03061",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJiUBp84LP1EARWDjLjh-Fnhw",
+    "name": "ГАЛУШКА",
+    "address": "Бессарабська площа, 5, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJG_R5BxfS1EARkyPslwP59vs",
+    "name": "Prynada Ukrainian Cafe",
+    "address": "проспект Володимира Івасюка, 24, Київ, 04210",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJuR7aO1fO1EARnBD0j7mmh1c",
+    "name": "Корчма Тарас Бульба",
+    "address": "вулиця Євгена Чикаленка, 2, 4/7, Київ, 01034",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ82TSWFDO1EAR0EljJWoRiOE",
+    "name": "Остання Барикада / Ostannia Barykada",
+    "address": "Майдан Незалежності, 1, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJKzVsyRrM1EARBvRR8jrldlo",
+    "name": "Коса над чаркою",
+    "address": "вулиця Михайла Донця, 2, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJwfVVxkPO1EARXwjd2pI8qh0",
+    "name": "Канапа ресторан-салон / KANAPA restaurant",
+    "address": "Андріївський узвіз, 19, Київ, 01025",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJVxpa0WjP1EARbOanJrPPh2c",
+    "name": "Moon Rabbits Local",
+    "address": "вулиця Велика Васильківська, 136, Київ, 03150",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ5Yz1ZwfP1EARSNjYL9MgxvA",
+    "name": "SHO",
+    "address": "вулиця Мечникова, 18, Київ, 01021",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJBwYVlkPO1EARQiKqje6Rhv8",
+    "name": "За двома зайцями",
+    "address": "Андріївський узвіз, 34, Київ, 04070",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJY0Qe_QDP1EARRu5WyS2lK04",
+    "name": "BARVY",
+    "address": "вулиця Мечникова, 3, Київ, 01023",
+    "city": "Київ",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJE1FJ2dvP1EAR9taM2tobv_k",
+    "name": "BY ITALY",
+    "address": "вулиця Велика Васильківська, 66/68, Київ, 03150",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ38h3N_XO1EAROmiNSMLS-bY",
+    "name": "Piccolino",
+    "address": "вулиця Олеся Гончара, 67, Київ, 01054",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJud7obz_O1EARvvaO3Gl5BUk",
+    "name": "Vero Vero",
+    "address": "вулиця Іллінська, 18, Київ, 04070",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ85hE68vN1EARS0XiBKJmu04",
+    "name": "Trullo D'oro Cafe",
+    "address": "вулиця Героїв Севастополя, 35А, Київ, 03126",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJJyOSGJLP1EARLivFaWgppr4",
+    "name": "Capo di Monte",
+    "address": "вулиця Саксаганського, 33/35, Київ, 01033",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJESt9sljP1EARBFD_tyn-rT8",
+    "name": "Italian Edition",
+    "address": "вулиця Велика Васильківська, 43, Київ, 01004",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJrfRtGUHO1EARtwvpjV2nK1Q",
+    "name": "Casa Nori",
+    "address": "вулиця Борисоглібська, 1, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJp9LMPP7O1EAR39z2CsX9aAA",
+    "name": "Mercato Italiano",
+    "address": "Спортивна площа, 1a, Київ, 01001",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJJawDkv3P1EARwzDOwD6Gwi8",
+    "name": "La Terrazza",
+    "address": "вулиця Щекавицька, 29, Київ, 04071",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJxRdziBPP1EARo5SMvDahcjw",
+    "name": "Хвиляста",
+    "address": "вулиця Верхній Вал, 24, Київ, 04071",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJhalizqnP1EAReP85e7Ckmn8",
+    "name": "Біголі",
+    "address": "Кловський узвіз, 7а, Київ, 01021",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJKYK2Xm3P1EAREj1aU0yDQ8s",
+    "name": "Bassano Ristorante",
+    "address": "вулиця Велика Васильківська, 100, Київ, 03150",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJDZaUtZPP1EAR8RpyQ0jHCgo",
+    "name": "45 restaurant",
+    "address": "вулиця Богдана Хмельницького, 45Б, Київ, 01030",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJmXMfBxHP1EARTERJS0iRjk0",
+    "name": "CAPULETI",
+    "address": "вулиця Євгена Коновальця, 36-В, Київ, 01133",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJZ83VhWnP1EARmzMea3D5cEY",
+    "name": "Trattoria No 5",
+    "address": "вулиця Професора Підвисоцького, 8, Київ, 01103",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJ3UJXrlnO1EARdDpNW1aGLsg",
+    "name": "Остерія Пантагрюель",
+    "address": "вулиця Миколи Лисенка, 1, Київ, 01034",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJO2H_rofR1EARIerxiSeNSuk",
+    "name": "Casa Lora",
+    "address": "проспект Володимира Івасюка, 6, Київ, 02000",
+    "city": "Київ",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Київ"
+  },
+  {
+    "place_id": "ChIJeVRcoG3dOkcROc8XctWQjQM",
+    "name": "36По",
+    "address": "площа Ринок, 36, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJHxC07ejdOkcRMarO27nZCPE",
+    "name": "МАРИМО своєю справою",
+    "address": "вулиця Вірменська, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ___PvW3dOkcRy3_aEGRiokE",
+    "name": "Доменіко",
+    "address": "Пл.Ринок, Пасаж Андреоллі, 29, Львів, Львівська область, 79495",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJHVAkFG3dOkcRoNZw79xTTcU",
+    "name": "Tante Sophie Càfe Escargot",
+    "address": "вулиця Друкарська, 6А, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJsx1JwmrnOkcR3Wd5I_UVmNo",
+    "name": "Гарні Люди",
+    "address": "вулиця Янева, 10, Львів, Львівська область, 79004",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJfTPXvl3dOkcRB1zUCATHiKg",
+    "name": "Le Petit Café Lviv",
+    "address": "площа Катедральна, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ5f64m23dOkcRJp9eAX4Ppyk",
+    "name": "Ресторація Бачевських",
+    "address": "вулиця Шевська, 8, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJT2IHyWjdOkcRUHymEnH-6NA",
+    "name": "Грушевський ресторан",
+    "address": "проспект Шевченка, 28, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJLV2D3uTdOkcRL3cebcvAYRE",
+    "name": "Ресторація Боїмів",
+    "address": "вулиця Шевська, 6, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJf0gg02fdOkcRbemNgYk5tdM",
+    "name": "Вулик медовий ресторан",
+    "address": "вулиця Михайла Грушевського, 16, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJAUAfe_7dOkcRcwF2pK8-Nn4",
+    "name": "Biblioteka restaurant lviv",
+    "address": "вулиця Краківська, 7, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ9anqLGndOkcRLvAcHAA7O9k",
+    "name": "Валентино (Valentino restaurant)",
+    "address": "вулиця Остапа Нижанківського, 20, Львів, Львівська область, 79005",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJGWoDc2zdOkcR_IgILo6Qd_I",
+    "name": "Підпільний Кіндрат",
+    "address": "вулиця Валова, 25, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ65qLx_vdOkcRS-Q1xRWwMlQ",
+    "name": "Ресторан",
+    "address": "проспект В'ячеслава Чорновола, 7, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJv5TEoMjdOkcRZW34dw20Qjc",
+    "name": "MAMENORI LVIV/ МАМЕНОРІ ЛЬВІВ",
+    "address": "вулиця Братів Рогатинців, 4, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ-2mjniPdOkcRPfWUOiqeq0s",
+    "name": "BER NAR DYN Restaurant",
+    "address": "Соборна площа, 17, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ0cq8LynmOkcRWre-7mjBwik",
+    "name": "Голодний Микола",
+    "address": "вулиця Стрийська, 352, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJl1zin23dOkcR4RrcFJIp2_k",
+    "name": "Bar Mushly (Бар Мушлі)",
+    "address": "площа Ринок, 35, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ9d3XshvdOkcRwj6_p5_JwiI",
+    "name": "5-те Підземелля",
+    "address": "площа Ринок, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJGWEJTWzdOkcRt5TXhuqFYJc",
+    "name": "Найдорожча ресторація Галичини",
+    "address": "площа Ринок, 14, 2 поверх, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJUw90nW3dOkcRgtR0VOu9Ilg",
+    "name": "Druzi Cafe",
+    "address": "вулиця Краківська, 5, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJV-EEvm3dOkcRnVLmQj7vMXE",
+    "name": "На бамбетлі",
+    "address": "площа Ринок, 29, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJKTugOGzdOkcRkCX4Y_SHLBg",
+    "name": "Теплий п'єц",
+    "address": "вулиця Староєврейська, 50, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJMysAYXPdOkcRT8FlIBPdiIM",
+    "name": "Штука",
+    "address": "вулиця Котлярська, 8, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJ0132E23dOkcRzyrp8bLGpZU",
+    "name": "Вірменка",
+    "address": "вулиця Вірменська, 19, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJydf6BJzdOkcRa6tppUkj0iY",
+    "name": "Cafe Polianna Lviv",
+    "address": "вулиця Городоцька, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJb_UdNZrdOkcRx44v5JcrwyA",
+    "name": "Комплексні обіди « Твій Ланч»",
+    "address": "вулиця Модеста Менцинського, 3, Львів, Львівська область, 79007",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJNd1kZFzdOkcR5y0aJNRm0bY",
+    "name": "Те Амо",
+    "address": "вулиця Стефаника, 16, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJbymsMaHdOkcRizUseQSnjqw",
+    "name": "Black Honey",
+    "address": "провулок, проїзд Крива Липа, 3, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJlS_7Em3dOkcR478bgyd8Xpw",
+    "name": "Гасова лямпа",
+    "address": "вулиця Вірменська, 20, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJa_dIWWzdOkcRd1_SP-1nrV4",
+    "name": "Золотий Дукат",
+    "address": "вул. Івана Федоровича, 20, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJK33Dxb_dOkcRMP0Ewh4kBfs",
+    "name": "Grand Cafe Leopolis",
+    "address": "площа Ринок, 1, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJVaQAVGzdOkcR9IjL6lVjkk4",
+    "name": "Львівська копальня кави",
+    "address": "площа Ринок, 10, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJrbh098bdOkcRcGb3XOpff2U",
+    "name": "Кафе Мамина Світлиця",
+    "address": "проспект В'ячеслава Чорновола, 59, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJp4ngSMbdOkcRP6CBviOB8JU",
+    "name": "Кафе-вітальня \"Папі\"",
+    "address": "вулиця Валова, 19/1, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJfR5vFdndOkcRUBW-XTMk0hU",
+    "name": "San Sebastián cafe",
+    "address": "вулиця Краківська, 20, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJ8TL6BW3dOkcRw5nA-KoXV78",
+    "name": "Атляс",
+    "address": "площа Ринок, 45, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Львів"
+  },
+  {
+    "place_id": "ChIJO06HfQDpOkcRLc2af4KlAOQ",
+    "name": "\"RoVero\" Піца & Суші",
+    "address": "вулиця Морозна, 14, Львів, Львівська область, 79066",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJ6ZExR6DnOkcR2g5wZUprBK8",
+    "name": "EMILY Brooklyn Pizza",
+    "address": "вул. Кульпарківська, 226А, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJjxmqrr3dOkcR3xizYfLNofI",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Богдана Хмельницького, 176, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJ03QLym3dOkcReD-YTX4jdGM",
+    "name": "Pizza Celentano Ristorante",
+    "address": "вул. Галицька, 1, площа Ринок, 21, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJt8sqz4ndOkcRcpN4xQyHSis",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Стара, 3, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJ9wEjdSXdOkcRYOsAi66NJcU",
+    "name": "Піцерія IQ Pizza",
+    "address": "площа Євгена Петрушевича, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJiRCddKTdOkcRJWf-3r8CnLQ",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Щурата, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJfX-X0wfdOkcRBh9sqI6H6F0",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Замарстинівська, 132, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJl1t60efdOkcRo98eMh3glQk",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Гетьмана Мазепи, 11, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJv_nCHIXdOkcRei_Q4nJjwcM",
+    "name": "Промінь",
+    "address": "вулиця Академіка Гнатюка, 15, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJv6FeBJ_dOkcRrIa4BftMALA",
+    "name": "Сицилійський Дворик Pizza Lviv",
+    "address": "вулиця Богдана Хмельницького, 20, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJIRSZ4nHdOkcRHFh_En29R34",
+    "name": "Budzzini",
+    "address": "вулиця Петра Дорошенка, 8, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJm5VUWADnOkcRovOZeWroiYo",
+    "name": "ITALIANA pizza&pasta - Неаполітанська Піца | Доставка піци на дровах",
+    "address": "вул. Кульпарківська, 150, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJD0QTI3rdOkcRUMxgDjuBjns",
+    "name": "1708 pizza di Napoli",
+    "address": "вулиця Федьковича, 60А, Львів, Львівська область, 79018",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJRzV77BfdOkcRYrFR0NsVFCA",
+    "name": "1708 pizza di Napoli",
+    "address": "вулиця Під Голоском, 2а, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJbxR_KgDdOkcRkXRPe_kVRro",
+    "name": "Ресторан-піцерія ШоШо",
+    "address": "площа Генерала Григоренка, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJx6uzGBrdOkcRS5JyXNCf61g",
+    "name": "Atelier 19. Піца. Паста. Італійська кухня.",
+    "address": "вулиця Староєврейська, 19, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJOar2e_HnOkcRcOo-sCp8ua0",
+    "name": "Cestino pizza & art",
+    "address": "вулиця Демнянська, 3, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJW3DM8yPnOkcRmMvcSOs9iv4",
+    "name": "Food Avto",
+    "address": "вулиця Трускавецька, 1а, Львів, Львівська область, 79031",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJN3ZrxrXdOkcR1BzsD2y5E-4",
+    "name": "Veterano pizza",
+    "address": "вулиця Староєврейська, 18, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Львів"
+  },
+  {
+    "place_id": "ChIJeY98oebnOkcR5amFjx4Pqp8",
+    "name": "Ресторан азійської кухні BAO Casual Lviv",
+    "address": "вулиця Староєврейська, 25/27, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJWY4JXg_nOkcRpvORsoY1izM",
+    "name": "Сушеріва Найбільші Суші у Львові",
+    "address": "вулиця Зелена, 263, Львів, Львівська область, 79034",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJAYff8efdOkcRm9SzKUoLQqU",
+    "name": "Sushi-Time Доставка Суші Львів, Самовивіз -35%",
+    "address": "вулиця Зелена, 6, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJLfr7Kg7dOkcRYtJfEeiwWs8",
+    "name": "NOA",
+    "address": "вулиця Староєврейська, 4, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJMVVkqqzdOkcRoy9qjmxulJY",
+    "name": "YOKI Restaurant",
+    "address": "вулиця Академіка Гнатюка, 12а, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJO8Jjd77dOkcRl7QSICPXzH4",
+    "name": "NOA",
+    "address": "проїзд Крива Липа, 8, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJMWDgb5PdOkcRJKf5EkKg2nc",
+    "name": "Green Garden",
+    "address": "вулиця Руданського, 1, Львів, Львівська область, 79005",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJLfXBKjXdOkcR8B67BnYU8_M",
+    "name": "Osama Sushi",
+    "address": "вулиця Мельника, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJWb1Vc5fdOkcRxmWu9PVabg8",
+    "name": "Суші До",
+    "address": "вулиця Наукова, 59а, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJFdf2sGvdOkcRW2M2kt5nlx4",
+    "name": "Sushi",
+    "address": "вулиця Братів Рогатинців, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJBROVKgDdOkcRHp5yeWL_Fwk",
+    "name": "Осама суші",
+    "address": "вулиця Стефаника, 4, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJGcc2MeHdOkcRjFJHK_AlgQE",
+    "name": "Monkey Sushi - доставка суші (замарстинівська 55 з)",
+    "address": "вулиця Замарстинівська, 55 з, Львів, Львівська область, 82200",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJZ40Ov4vdOkcRPwbxVRc4O28",
+    "name": "NOA",
+    "address": "вулиця Гетьмана Мазепи, 1Б, Львів, Львівська область, 79068",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJZYmGcwDdOkcR5cvn7WDhpA8",
+    "name": "Roll&Bowl",
+    "address": "вулиця Пантелеймона Куліша, 23, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJCYqoImzdOkcRxF0FtjdCEJs",
+    "name": "Moyogi",
+    "address": "вулиця Валова, 13, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ8ywFb_3nOkcRqODXflebyxI",
+    "name": "Monkey Sushi - доставка суші (стрийська 45)",
+    "address": "вулиця Стрийська, 45, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJwda-BRznOkcRlTzGRtKNAA8",
+    "name": "Osama Sushi",
+    "address": "вулиця Стрийська, 45г, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJy65vRXLdOkcRWTSdV4YBZ4k",
+    "name": "ресторан в центрі Львова-гриль барбекю Українське подвір'я",
+    "address": "вул. Кавова, 1, Львів, Львівська область, 79007",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJEyYXKS3dOkcREDbFi74xWoI",
+    "name": "МА - Ресторан української кухні",
+    "address": "вулиця Лесі Українки, 30, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ2wTDTyfnOkcRLkd-zDmyEQs",
+    "name": "Ресторан української кухні «Гуцульський двір», Львів.",
+    "address": "вулиця Щирецька, 36, Львів, Львівська область, 79017",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJieeae23dOkcRjPtMXEUos1k",
+    "name": "Медівня 1979 - Ресторан Української Кухні",
+    "address": "вулиця Краківська, 17, Львів, Львівська область, 79007",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJk_g3TGzdOkcR-e0sSk3Gxyg",
+    "name": "Криївка",
+    "address": "пл. Ринок, 14 (підвал), Венеційська кам'яниця, площа Ринок, 14, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ9R-R7GTdOkcR_JQHn600SXY",
+    "name": "Гармата",
+    "address": "Citadel Inn, вулиця Грабовського, 11, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJJdD_xm3dOkcRKY-r0iO193Q",
+    "name": "Борщ",
+    "address": "площа Катедральна, 3, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJdxyBqdfdOkcRRAhUNjObq7U",
+    "name": "Вулик ресторан на Липах",
+    "address": "вулиця Липинського, 36, Львів, Львівська область, 79019",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJMXnW227dOkcRW3Iy-GVzF_k",
+    "name": "Пузата хата",
+    "address": "вулиця Січових Стрільців, 12, Львів, Львівська область, 79007",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ1W_UVGvdOkcRFxZ6f9GClRE",
+    "name": "Матусині вареники",
+    "address": "вулиця Миколи Лисенка, 11, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJi71HAHvdOkcRNa3QfZt8A8E",
+    "name": "Сім Поросят",
+    "address": "вулиця Степана Бандери, 9, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJz4X_EQDdOkcRXt2FbbX7t2I",
+    "name": "Дерун",
+    "address": "вулиця Руська, 18, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJX7QEP-vnOkcR5uwy_vqzhhQ",
+    "name": "Гуцульська гражда",
+    "address": "вулиця Володимира Великого, 2 A, Львів, Львівська область, 79053",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJWYb19WvdOkcR5K1JzsOLf9s",
+    "name": "Трапезна Ідей",
+    "address": "18A, вулиця Валова, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJDZgrdm3dOkcREZe042ILnIQ",
+    "name": "Дольче Віта",
+    "address": "вулиця Краківська, 5, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJIwoPpwvdOkcRnp-Dls_pp9A",
+    "name": "Tartufo trattoria",
+    "address": "ТЦ Forum Lviv, 3 поверх, вулиця Під Дубом, 7 Б, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJ-cIxoG3dOkcRnDtkMVy5Ibg",
+    "name": "DeMandjaro | ДеМанджаро",
+    "address": "вулиця Галицька, 10, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJV7_M5sbdOkcRpv0hN2fM_TU",
+    "name": "Тедді/Teddy Restaurant",
+    "address": "вулиця Чайковського, 20, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJMSV2M8LnOkcRn3N465Hv9Gg",
+    "name": "Porcomarco",
+    "address": "вулиця Вірменська, 14/1а, Львів, Львівська область, 79008",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJQ9Pz-N3dOkcRzgj090FzO70",
+    "name": "Gusto d'Italia",
+    "address": "вулиця Вірменська, 16, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJx69En23dOkcRsvTLcK5gyJM",
+    "name": "Базилік",
+    "address": "Кам'яниця Кіліящинська, площа Ринок, 33, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJfaic137dOkcRbPk4iH_1aL8",
+    "name": "Capriccio Vino e Cucina",
+    "address": "9, проїзд Крива Липа, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJA4x2H6zdOkcRzevVGytfGps",
+    "name": "Траторія Фрателіні Rrattoria Fratellini",
+    "address": "вулиця Плугова, 6, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJm0J1fQDnOkcRQWfYmiJM1Zc",
+    "name": "La Luce",
+    "address": "вулиця Академіка Підстригача, 1, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJe0ZDd13nOkcRU8TXD9jpfQQ",
+    "name": "Frizzante",
+    "address": "вулиця Городоцька, 275, Львів, Львівська область, 79040",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJmVwtlp3dOkcRCMpg9ZRwdg0",
+    "name": "Soprano roof terrace",
+    "address": "площа Князя Святослава, 9, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJFW8iwe7nOkcR7LLw0hih5L0",
+    "name": "Ресторан MISTO",
+    "address": "вулиця Антоновича, 122, Львів, Львівська область, 79000",
+    "city": "Львів",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Львів"
+  },
+  {
+    "place_id": "ChIJk6nh9RjP1EARB1VKy0g7ox4",
+    "name": "ODESA",
+    "address": "вулиця Велика Васильківська, 114, Київ, 03150",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJPYaWWG0xxkARL9ypzetER5s",
+    "name": "Terrace. Sea View",
+    "address": "Пляж Ланжерон, 1Б, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJhcL2FuUzxkARmImb4az1Tm8",
+    "name": "Dacha",
+    "address": "корп. 15, Французький бульвар, 85, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ33FRr9k1xkARIKQ-6s9ZIv0",
+    "name": "YUG",
+    "address": "Маячний провулок, 15, Одеса, Одеська область, 65500",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJMWvUxkPO1EARmYwR_S-d7E0",
+    "name": "Маленька Одеса",
+    "address": "Андріївський узвіз, 21а, Київ, 04070",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJkRUQi4kzxkARy405kJ7LNm8",
+    "name": "The Roastery by Odesa",
+    "address": "Аркадійська Алея, 1, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJdfkot5kxxkARLgZ2pNJJghU",
+    "name": "Хмари",
+    "address": "вул. Європейська, 27, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJBYgdeZYxxkAR8ZJpOAB_V9I",
+    "name": "Бенедикт",
+    "address": "вулиця Садова, 19, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJuY6F1JcxxkAR4kBJPPzd_SQ",
+    "name": "Куманець",
+    "address": "Гаванна вулиця, 7, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJvzYltJcxxkARXby6hB2l0Hs",
+    "name": "CityBUFFET \"Уточ-Кіно\"",
+    "address": "вулиця Дерибасівська, 22, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ8RI6QJYxxkARqOL-_LzAQCA",
+    "name": "КлараБара",
+    "address": "вулиця Преображенська, 28, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ805oFJ0xxkARlfPyuyACb6s",
+    "name": "The Дім",
+    "address": "вулиця Успенська, 55, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ6y8ts0PP1EARAYkCFhoOz-o",
+    "name": "Одеса-мама",
+    "address": "вулиця Князів Острозьких, 8, Київ, 02000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJMbNkMpcxxkAR7FO9BXGcxx4",
+    "name": "Легенда",
+    "address": "вулиця Ніни Строкатої, 42, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ83qexm0xxkARipZzMhJ6__M",
+    "name": "Веранда",
+    "address": "Пляж Ланжерон, 65, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJD-1Xz_UzxkARKB4PH8hGUBQ",
+    "name": "Kadorr Restaurant",
+    "address": "Французький бульвар, 66/3, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ14zT0JUxxkAR0QjUaLXnJ9M",
+    "name": "Котелок - Бар Мідій",
+    "address": "вулиця Садова, 17, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJRUkA9BQxxkAREO79Cguk9yE",
+    "name": "Мамма Італія",
+    "address": "вулиця Рішельєвська, 5, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJLdwXxHoxxkARIb70CjX6FHY",
+    "name": "12 мавп",
+    "address": "вулиця Дерибасівська, 12, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJzWYmHZgxxkARCINpLllXa8g",
+    "name": "Амстердам ресторан і бар",
+    "address": "вулиця Дерибасівська, 14, Одеса, Одеська область, 65026",
+    "city": "Одеса",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJISv4kL0xxkARd_FpneHojuI",
+    "name": "Zheto",
+    "address": "Гаванна вулиця, 2, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJcxNO_hgxxkAR8J16bXg17is",
+    "name": "Pepe",
+    "address": "вулиця Канатна, 60, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJwUthqwkzxkAR2x7IYur1d6M",
+    "name": "Hola Lola",
+    "address": "вулиця Академічна, 28, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJo0Mbgp8zxkARUF8sI2sg9K8",
+    "name": "Forty five cafe",
+    "address": "Henuez'ka St, 3a, Odesa, Odes'ka oblast, أوكرانيا،، Odesa, Odesa Oblast, 65009",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJdRt-LBAxxkARZX9VANXU08o",
+    "name": "Bloom Cafe",
+    "address": "вул. Європейська, 48, Одеса, Одеська область, 65045",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJfzjGbvYzxkARbP_RQEY-IHQ",
+    "name": "Santorini Cafe",
+    "address": "Траса здоров'я, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJq6r6CpUxxkARy3P2162-7Rs",
+    "name": "Поштанавпроти",
+    "address": "вулиця Садова, 5, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJRWqBhr4xxkARHRDH05fmLG8",
+    "name": "Гоголь-Моголь",
+    "address": "пер. Некрасова, 2, Одесса, Украина, 65082, Одеса, Одеська область, 65026",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJK3rq4JsxxkARjXSZ_h_G7Kk",
+    "name": "Foundation Coffee Place",
+    "address": "вулиця Святослава Караванського, 19, Одеса, Одеська область, 65026",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJf9sQ41UxxkARJI8kmtWvn5s",
+    "name": "Atelier. Food & Crafts",
+    "address": "Олександрівський проспект, 22, Одеса, Одеська область, 65045",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJUc9zLFsxxkARlzy5wxdXpZY",
+    "name": "Pasadena Coffee",
+    "address": "вулиця Пастера, 32, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJ73Xby6AzxkARxpHtPRQmocU",
+    "name": "Кафе \"ВДВ\"",
+    "address": "вулиця Варненська, 4А, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJuw-A2u0xxkARCH7qc20h6hc",
+    "name": "Café Central",
+    "address": "вулиця Дерибасівська, 14, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJxYjavd0xxkARX81MaKIPAsI",
+    "name": "CityBUFFET \"Витражъ\"",
+    "address": "вул. Італійська, 59, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Одеса"
+  },
+  {
+    "place_id": "ChIJr5-v1pcxxkARWGppNhSKySs",
+    "name": "Оліо Піца",
+    "address": "Гаванна вулиця, 7, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJTTPGn98GqkERHMC8wWmB1iQ",
+    "name": "Белла Італія",
+    "address": "вулиця Базарна, 94, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJM_6F9FQvxkARFhIN6Rc4RJw",
+    "name": "Portico Pizzeria",
+    "address": "Масив Райдужний, 19/2, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJ6Vlwy9wxxkAREXKRotGhYcs",
+    "name": "Кафе Nonna",
+    "address": "вулиця Преображенська, 42, Одеса, Одеська область, 65045",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJexQwHKMxxkARemRlQG9B9YQ",
+    "name": "Піцерія Че",
+    "address": "Железнодорожный вокзал, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJuSn8XZYxxkARggt4nyyNU94",
+    "name": "Mario's",
+    "address": "вулиця Садова, 15, Одеса, Одеська область, 65023",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJC8pyki0xxkAR1VXpm8clD1g",
+    "name": "KVITKOVA.Passage",
+    "address": "вулиця Дерибасівська, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJzfwiwJcxxkAR--awU0XE-B4",
+    "name": "Pasta & Pizza",
+    "address": "вулиця Дерибасівська, 18, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJNzkiMJoxxkARIxEqioN6TX0",
+    "name": "Італійський Квартал",
+    "address": "вулиця Святослава Караванського, 31, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJW-I8Ta0zxkARnQ579q9xss0",
+    "name": "Italian Pizza",
+    "address": "вулиця Георгія Липського, 135, Одеса, Одеська область, 65080",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJM-awwHgxxkARadcCjN4BjLY",
+    "name": "Nonna",
+    "address": "вулиця Пантелеймонівська, 64, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJ0WCIM4E0xkARqAzrI0VsfaE",
+    "name": "Фонтан",
+    "address": "Фонтанська дорога, 58, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJDWFlg7MzxkARAYLiOUFWEwU",
+    "name": "Pepe Pizza",
+    "address": "Люстдорфська дорога, 27/55, Одеса, Одеська область, 65080",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJ7fb-dZ0xxkAR9IEdTXrvPdE",
+    "name": "Cipolle Pizza Bar",
+    "address": "вулиця Леонтовича, 16А, Одеса, Одеська область, 65012",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJ__Elpa8zxkARxtsfP_gyym4",
+    "name": "Pasta & Pizza",
+    "address": "вулиця Академіка Філатова, 31/1, Одеса, Одеська область, 65074",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJ_bpIjOEzxkARGTpZlsIv6qI",
+    "name": "Ресто-Престо (Малиновского)",
+    "address": "вул. Олексія Вадатурського, 27, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJBxGzSKUzxkARqXLRzJmOfPs",
+    "name": "Cheat.meal.food",
+    "address": "вулиця Гранітна, 2, Одеса, Одеська область, 65125",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJf7_CAKUzxkARVJXyHK7fvGs",
+    "name": "Rossetti pizza",
+    "address": "вулиця Академіка Філатова, 21, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJ1yCE1uAxxkARI2JvMPBwbCc",
+    "name": "Піца Parovoz",
+    "address": "вулиця Михайла Грушевського, 30г, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJV1Ma764zxkAR2LKsqwHEV1M",
+    "name": "Італійський Квартал",
+    "address": "вулиця Космонавтів, 12, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Одеса"
+  },
+  {
+    "place_id": "ChIJsz-v-BwxxkARi97exUPVR1o",
+    "name": "Sushi Top",
+    "address": "вулиця Велика Арнаутська, 2а, 1, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ4UtsoQ4lxkARPHnzDQq8eYM",
+    "name": "Е-боші",
+    "address": "вулиця Преображенська, 66, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJKzAVLoA7xkARcs1xYzJXJrg",
+    "name": "Koi sushi bar",
+    "address": "Південна дорога, 101а, Одеса, Одеська область, 67571",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJw_WRCCoxxkARqNIX3YSkgqY",
+    "name": "Крабі",
+    "address": "пров. Івана Луценка, 3/7, Одеса, Одеська область, 65026",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJB89-rSw7xkARfffGS-6o_MY",
+    "name": "Бенто",
+    "address": "вулиця Семена Палія, 120, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ4QJgO34xxkARtoBT8g79czc",
+    "name": "Lazy Crazy (by Ленивые суши / Lazy sushi)",
+    "address": "Фонтанська дорога, 49, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ8UDfIBEzxkARDWWpiW1cTQI",
+    "name": "Aleksandr Sann",
+    "address": "Генуезька вулиця, 24Д, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJKaXLLMMxxkARFMctuVtUyak",
+    "name": "Єсуші",
+    "address": "вулиця Прохоровська, 1/3, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJd6Eyh3AxxkAR3d_wJKQQhos",
+    "name": "SUKE bistro",
+    "address": "вулиця Грецька, 26/28, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJYavHCxc1xkARvvSenF1GeZI",
+    "name": "Е-боші",
+    "address": "Arkadiyska Alley, 1, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJd1F-bAAzxkARYc7WjV8I9xo",
+    "name": "Суші Зая",
+    "address": "Генуезька вулиця, 24б, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJs6eVytczxkARLW_mcYROAVc",
+    "name": "Доставка суші Basketroll",
+    "address": "Люстдорфська дорога, 100, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ80yX6pkxxkAR2yiJICLeU2Y",
+    "name": "NAVI sushi bar",
+    "address": "вулиця Ніни Строкатої, 28, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJR7zBBp4zxkARH-aOEmOy8Wk",
+    "name": "Yusumi",
+    "address": "вулиця Маршала Говорова, 10Б, Одеса, Одеська область, 65009",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJEbIOr7QzxkARtnFKMlcp16s",
+    "name": "Buddha Sushi",
+    "address": "Сегедська вулиця, 12, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJe0ipt2QxxkARCrJ6UmmCpvI",
+    "name": "Манго",
+    "address": "Французький бульвар, 9, Одеса, Одеська область, 65044",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJZ5H8DXgxxkARXFIr9NHKJKI",
+    "name": "Космос",
+    "address": "вулиця Велика Арнаутська, 43, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJbazf4l8zxkARIbnXy9xnBJ4",
+    "name": "СУШІБОС",
+    "address": "Педагогічна вулиця, 58, Одеса, Одеська область, 65062",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJuyaS2mwzxkAR6rhMBMQNark",
+    "name": "Суші 360",
+    "address": "проспект Небесної Сотні, 2, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ4ddWn9EzxkARI4-zyNjtyqw",
+    "name": "Sushi Icons , пр-т Лесі Українки, 15",
+    "address": "просп. Лесі Українки, 15, Одеса, Одеська область, 65044",
+    "city": "Одеса",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJyX-dgUgzxkARwncMXuJE8sQ",
+    "name": "Nash restaurant",
+    "address": "проспект Небесної Сотні, 2, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJu1lKF3ExxkARVISud2ogUGQ",
+    "name": "Качка",
+    "address": "Лідерсівський бульвар, 17, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ7QOLAw01xkARr-Cx8F369DU",
+    "name": "Ресторан Украинской кухни NASH",
+    "address": "Аркадійська алея, 1, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJy1_DgsYzxkARxVrYbIUItII",
+    "name": "Kum ta Kuma",
+    "address": "Французький бульвар, 22/1, Одеса, Одеська область, 65058",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJWyXYZnsxxkARAlnlYeBGQ-8",
+    "name": "UYAVA",
+    "address": "вулиця Грецька, 38, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJpfbQyioxxkARaQNqlWF9u_I",
+    "name": "LOU LOU",
+    "address": "вул. Європейська, 6, Одеса, Одеська область, 65026",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJO4tQHr0xxkARMieL_hcSGyg",
+    "name": "Dizyngoff",
+    "address": "Катерининська площа, 5, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJR3polm0xxkAREFgJeyFL230",
+    "name": "Причал №1",
+    "address": "Ланжерон, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJCcGp6EUxxkARHcqRoee5GU8",
+    "name": "Yourz Space Bistro",
+    "address": "вулиця Преображенська, 45, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ4QDXonkxxkARe7gI-2UTrz8",
+    "name": "Italia & MORE prosecco",
+    "address": "Гаванна вулиця, 10, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ18QXnqYzxkARI4z_vX0os8E",
+    "name": "il Mio Ristorante - Ресторан італійської кухні",
+    "address": "вулиця Дмитра Донського, 59, Одеса, Одеська область, 65016",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJEZlRO1UzxkARaAXqIpqpcb0",
+    "name": "Olivia",
+    "address": "вулиця Добровольців, 10/2, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJGzHtzk0xxkARfpEl_357IZ4",
+    "name": "Monica Pinza Pasta Bar",
+    "address": "вул. Європейська, 23, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJT7F4ZFQzxkARLpUeBt2I-RI",
+    "name": "Felice",
+    "address": "Генуезька вулиця, 3б, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ_Zxt-5gxxkAR2JsKydMMmig",
+    "name": "Фрателлі",
+    "address": "вулиця Грецька, 17, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJLaOmkqcxxkARiKGXnzW-Y6s",
+    "name": "Lili bistro",
+    "address": "вулиця Садова, 14, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ-exJBHYxxkAR9En-k586Uh4",
+    "name": "Antica Cantina",
+    "address": "вулиця Грецька, 33, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJqwDSeyMzxkARJP--91hd5T4",
+    "name": "Пікколо",
+    "address": "проспект Шевченка, 8/3, Одеса, Одеська область, 65058",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ_ZN7PzUxxkARMkxaMRoYd1o",
+    "name": "Vivi Italian taste",
+    "address": "вулиця Преображенська, 66, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJSyvoq9QkxkAR8A1gdNS8J_I",
+    "name": "Італійський Квартал",
+    "address": "вулиця Академіка Заболотного, 52, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJ2X0SmOszxkAR0R9BnysTWfU",
+    "name": "Італійський квартал",
+    "address": "вулиця Маршала Говорова, 18, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJTaQ6lmIxxkARtXWD8rb2L7k",
+    "name": "Pomodoro",
+    "address": "проспект Шевченка, 2А, Одеса, Одеська область, 65000",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJQQ6_sbozxkARLxlZN7hoK_0",
+    "name": "TREF cinema cafe",
+    "address": "проспект Шевченка, 16, Одеса, Одеська область, 65044",
+    "city": "Одеса",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Одеса"
+  },
+  {
+    "place_id": "ChIJSexES-SgJ0ERa4cm9l46WT0",
+    "name": "Шато",
+    "address": "вулиця Римарська, 30, Харків, Харківська область, 61057",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJqdiLnfqgJ0ERpcn1G9QswoE",
+    "name": "Нікас",
+    "address": "Університетська вулиця, 2, Харків, Харківська область, 61003",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJM3T3piShJ0ER96yyQ0nRncQ",
+    "name": "De Gusto Trattoria",
+    "address": "вулиця Космічна, 16, Харків, Харківська область, 61145",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJL-PddwALJ0ERQDZ6t_FYYrg",
+    "name": "Zori Meat Gastropub",
+    "address": "Садовий проїзд, 2/16, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJLWa7hvuhJ0ERM0D_NR0BLrA",
+    "name": "Villa Tartufo",
+    "address": "вулиця Сумська, 35, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJXaZocvGgJ0ERYT9JLqBz-s8",
+    "name": "Гдебургер",
+    "address": "В ресторане Jord ст.м. Держпром/Університет, вулиця Трінклера, 2, Харків, Харківська область, 61022",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJHe2GZfGgJ0ERJpDjX8Zglws",
+    "name": "Міське кафе 1654",
+    "address": "майдан Конституції, 2/2, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJY8_iDuegJ0ERjvJSnjX4snI",
+    "name": "Шоті",
+    "address": "вулиця Мироносицька, 12, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJRfWvyzqhJ0ER49f2XG0tLYU",
+    "name": "Траторія Сицилія",
+    "address": "проспект Науки, 19А, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJQ7zvweigJ0ER3-jCTP8V02U",
+    "name": "44 FAVORITE PLACE - стейк-хауc - место где можно поесть вкусного мяса",
+    "address": "вулиця Григорія Сковороди, 44, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJWRJCtzuhJ0ERwaJd9vunEhQ",
+    "name": "Йорд",
+    "address": "вулиця Трінклера, 2, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ6UCP2tygJ0ERRJmMWID1zMA",
+    "name": "Париж",
+    "address": "вулиця Ярослава Мудрого, 30/32, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJo1GPDiehJ0ERoajitRMQt0E",
+    "name": "Osteria il Tartufo",
+    "address": "вулиця Культури, 20 В, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJnVvoi0mnJ0ERjHkr8AJUqsA",
+    "name": "Сім-Сім",
+    "address": "вулиця Шевченка, 303/307а, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJgbwOjSGhJ0EReHvoxBRERpE",
+    "name": "Ресторація KoKAWA",
+    "address": "вулиця Данилевського, 26, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ55nrKVihJ0ERnwm_e2Uj35g",
+    "name": "Думки вголос",
+    "address": "Павлівський майдан, 5/7, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJuYp0cVIKJ0ERAbfw0Z6SmVg",
+    "name": "Parma",
+    "address": "проїзд Стадіонний, 13, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJe2VXLEmhJ0ERthkSvNbhvWA",
+    "name": "White Garden",
+    "address": "вулиця Квітки-Основ'яненка, 12, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ97aIrNugJ0ERPx_lQUB3nhk",
+    "name": "Шоті-Парк",
+    "address": "вулиця Алчевських, 50А, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJaZDRltELJ0ERQLbOURszdKY",
+    "name": "Cheza",
+    "address": "бульвар Юр'єва, 2, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ5zcKVdigJ0ERbEzaEnjjR8A",
+    "name": "some like it hot",
+    "address": "вулиця Сумська, 71, Харків, Харківська область, 61023",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJvZNk3yuhJ0ERFm9TWVigGFA",
+    "name": "ЛяТюШо",
+    "address": "вулиця Квітки-Основ'яненка, 4/6, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJIfIWDVagJ0ERJghc0S7yljk",
+    "name": "Куме",
+    "address": "вулиця Зброярська, 2, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJJTqjieagJ0ERlJkbVv1XqlQ",
+    "name": "Імбирний пряник",
+    "address": "вулиця Сумська, 36/38, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJ2wSpl--gJ0ERtBKcisNjGoA",
+    "name": "Koritza",
+    "address": "майдан Поезії, 2, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJj-AzBHGhJ0ERrP3SSdeNOOI",
+    "name": "Live. Love. Avocado",
+    "address": "вулиця Сумська, 59, Харків, Харківська область, 61058",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJ2SPAYOigJ0ERsXwNH7N9hHg",
+    "name": "CoffeeDoor Brewbar & Coffeeshop",
+    "address": "вулиця Григорія Сковороди, 50/52, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJyfYT5H-hJ0ERY6s9T5sDDr4",
+    "name": "Cafe KOHANA",
+    "address": "вулиця Чернишевська, 1, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJ53T1FRWhJ0ERmJj6Opq6Czk",
+    "name": "Кава та Пряник",
+    "address": "вулиця Григорія Сковороди, 54, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Харків"
+  },
+  {
+    "place_id": "ChIJ72WCf_igJ0ER4XpGbp1lcco",
+    "name": "Prohibition Pizzeria Napoletana",
+    "address": "вулиця Полтавський Шлях, 29, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJM19ibe-gJ0ERlxG_uZbEp0k",
+    "name": "Felice",
+    "address": "вулиця Григорія Сковороди, 21/23, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJafXHEPegJ0ERdvn02RtW1hg",
+    "name": "Маранелло",
+    "address": "вулиця Конторська, 1/1, Харків, Харківська область, 61052",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJWegTlwGhJ0ERoOHzDMwfrNY",
+    "name": "0057 Піца Харків | Мистецтв",
+    "address": "вулиця Мистецтв, 17, Харків, Харківська область, 61002",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJ8-yfuR2hJ0ERuHBxo7SOfB8",
+    "name": "Мережа Італійських Ресторанів Amato",
+    "address": "вулиця Клочківська, 104a, 2 этаж, Харків, Харківська область, 61022",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJCZEeznMJJ0ERCnv8JnkGTbw",
+    "name": "Tort i La Pizza",
+    "address": "вулиця Амосова, 25, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJoWLBpvqgJ0ERn9fWqV1dg-s",
+    "name": "Ті Амо",
+    "address": "вулиця Сумська, 35, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJRYe18RALJ0ER8qIIT2SoZEY",
+    "name": "Bella Mozzarella Доставка пиццы в Харькове. Доставка еды Харьков..",
+    "address": "проспект Петра Григоренка, 18/1, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJD51O1q0LJ0ERxMGoTpN5Gto",
+    "name": "Prima Pizza",
+    "address": "провулок Осипенко, 11А, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJSc_xrc-nJ0ERgGNXL4iFwcY",
+    "name": "0057 Піца Харків Салтівка",
+    "address": "вулиця Академіка Павлова, 303а, Харків, Харківська область, 61118",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJL1dbhnYKJ0ERfv5JSXfefuU",
+    "name": "Ricco Pizza Delivery",
+    "address": "проспект Героїв Харкова, 247б, Харків, Харківська область, 61200",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJybr7lM6hJ0ERXxslx1IgTUA",
+    "name": "0057 Піца Харків | Pizza Kharkiv",
+    "address": "вулиця Сумська, 25, Харків, Харківська область, 61001",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJZ57B6L0KJ0ERpumt2jVkhnY",
+    "name": "Піца+",
+    "address": "Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJsTNWlOehJ0ER1oP7RMHLwlI",
+    "name": "Bella Mozzarella Доставка пиццы Харьков. Доставка еды в Харькове.",
+    "address": "вулиця Сумська, 73, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJ9To37-CgJ0ERBNFjpxuhjcE",
+    "name": "Капрі Піцца",
+    "address": "Нагірний, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJh05i6VWhJ0ERPUoZ2xQjljE",
+    "name": "Ricco Pizza Delivery",
+    "address": "Театральний майдан, 4, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJuc9204ELJ0ERuNhs-kV6U70",
+    "name": "Pizza Vells",
+    "address": "вулиця Василя Мельникова, 4а, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJYaEcTSChJ0EROSh1ifWGWEQ",
+    "name": "Pasteria - Доставка Пиццы",
+    "address": "Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJW_szWgCnJ0ERd022a_C9j4M",
+    "name": "Pizza Family",
+    "address": "Чернівецький в'їзд, 2, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Харків"
+  },
+  {
+    "place_id": "ChIJzU-BawChJ0ERzYakk-6wft0",
+    "name": "Osama sushi",
+    "address": "Аерокосмічний проспект, 52, Харків, Харківська область, 61140",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ2-4btdGPGgwRg9eVUTceiOI",
+    "name": "Osama Sushi Kharkiv",
+    "address": "вулиця Трінклера, 22, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJLUDzcaahJ0ERMdXPeDECpGM",
+    "name": "SUSHI Vi",
+    "address": "проспект Науки, 41/43, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJf7EH8CShJ0ERL8_QciYmI54",
+    "name": "Ресторан ЯПІКО на пр. Науки",
+    "address": "проспект Науки, 11, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJUZg1m_kLJ0ERWIx48OioXak",
+    "name": "OK Cafe pizza & sushi",
+    "address": "вул. Павла Тичини, 32/2, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJu_3NYP0JJ0ERVFUGU00EALI",
+    "name": "Roll Club",
+    "address": "майдан Конституції, 18, Харків, Харківська область, 61109",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJhbgbgU2hJ0ERE5nlZdTu5Hc",
+    "name": "Суші та Вино | Суши и Вино",
+    "address": "проспект Науки, 23, Харків, Харківська область, 61166",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJg08nPQALJ0ERAuc7x-sGYxU",
+    "name": "Осама суші",
+    "address": "проспект Героїв Харкова, 252б, Харків, Харківська область, 61095",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJcbdLxdygJ0ERQjybgBMx62M",
+    "name": "Ресторан ЯПІКО на Ярослава Мудрого",
+    "address": "вулиця Ярослава Мудрого, 33/35, Харків, Харківська область, 61024",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJp4Q0kDuhJ0ER6ZU4Hq2XBmI",
+    "name": "Ресторан ЯПІКО на Миколаївській",
+    "address": "вулиця Миколаївська, 4, Харків, Харківська область, 61003",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJW6yEQqOhJ0ERmEAdsak01m4",
+    "name": "Osama Sushi Kharkiv",
+    "address": "Григорівське шосе, 32, Харків, Харківська область, 61064",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ4-buvuQLJ0ERGLDShA7uu9M",
+    "name": "Рис",
+    "address": "проспект Олександрівський, 55, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJAQCwMYqgJ0ERocUtKBnPWQc",
+    "name": "Sushi Icons , вул. Вернадського, 20",
+    "address": "вулиця Вернадського, 20, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJjd7wmUqhJ0ERC8Gcy0xOgA4",
+    "name": "Монтана - доставка пиццы Харьков",
+    "address": "проспект Науки, 39, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJt_KbJwAJJ0ER7cwqe5aBIWg",
+    "name": "Osama Sushi",
+    "address": "вулиця Василя Стуса, 21, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJiVLHf9GhJ0ERnFOhTvbbOYw",
+    "name": "Sushi Flow",
+    "address": "вулиця Клочківська, 117, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJoTn4WwChJ0ERhNMwYzDdZQg",
+    "name": "Sushi & Sandwich",
+    "address": "вулиця Клочківська, 23, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJx3x6FAChJ0ERitmAVdrCpPE",
+    "name": "Victory Sushi",
+    "address": "Левада, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJZQav6fmgJ0ERqp0r8mjlMtQ",
+    "name": "Трипіччя",
+    "address": "вулиця Різдвяна, 10, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJZfR6nAChJ0ER5wrAELd8xes",
+    "name": "Любоў",
+    "address": "вулиця Скрипника, 7, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJjQ3GxTehJ0ERKZkrcUrdLMs",
+    "name": "Той самий Баранець",
+    "address": "вулиця Сумська, 35-А, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJoWLBpvqgJ0ERmWhbSFHyVgQ",
+    "name": "Гетьман",
+    "address": "Плеханівська вул, 134, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJC6ZLSOygJ0ER2t77s0PletU",
+    "name": "Дон Омар",
+    "address": "Харківська набережна, 2А, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJj_SlFEOhJ0ERQDZftMSY09k",
+    "name": "Persha Kharkivska Galushkarnya",
+    "address": "вулиця Сумська, 26, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ5-8boFihJ0ERzRlB-Tjhumo",
+    "name": "Puri Chveni / Пури Чвени",
+    "address": "вулиця Мироносицька, 52, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJcdoSSe-gJ0ER0Pb29bdDsUE",
+    "name": "Пушка-Миндаль",
+    "address": "вулиця Григорія Сковороди, 31, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJs9hl0_agJ0ERhR9mTvtRmZc",
+    "name": "Первая Чайхана",
+    "address": "Університетська вулиця, 16, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJXTykESehJ0EReAbRl35HUKM",
+    "name": "Тратторія Ломбардія",
+    "address": "вулиця Культури, 22Б, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJ4RdEF_ChJ0EROrV_f4cu-OA",
+    "name": "Parma, Independence Avenue",
+    "address": "проспект Незалежності, 5б, Харків, Харківська область, 61000",
+    "city": "Харків",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJocjj1R2hJ0ER13wfaTB570Q",
+    "name": "Farfalle",
+    "address": "вулиця Ярослава Мудрого, 29, Харків, Харківська область, 61024",
+    "city": "Харків",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJX1Bw3fqgJ0ER9t9DNVy1BAE",
+    "name": "Pinocchio Osteria",
+    "address": "вулиця Клочківська, 28, Харків, Харківська область, 61057",
+    "city": "Харків",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Харків"
+  },
+  {
+    "place_id": "ChIJVVXFY9zi20ARi1PjcTfadNI",
+    "name": "Репортер",
+    "address": "вулиця Барикадна, 2, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJVdv8DVzj20ARaNXyfPpg26E",
+    "name": "Double V",
+    "address": "вулиця Ливарна, 4, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJFyASj93i20ARJDFaEUJNGzM",
+    "name": "Варбургер",
+    "address": "проспект Дмитра Яворницького, 57, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJVVUZStzi20ARtPa9ZXrhuEo",
+    "name": "Black Sheep",
+    "address": "вулиця Січових Стрільців, 1А, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJxT0bDtzi20ARaSeReNZ9DyU",
+    "name": "Le Grill",
+    "address": "Le Silpo, Кельнський бул., 1, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJw5IAKyTj20ARK8DCzhaXsrk",
+    "name": "Flip Neo Bistro",
+    "address": "проспект Дмитра Яворницького, 5, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJVdVLq_Di20ARlJ9er5S6rGU",
+    "name": "Pa-Si-Ju",
+    "address": "проспект Дмитра Яворницького, 90, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJp6mJytri20ARSCZRG1wC_YM",
+    "name": "Мамою Клянусь",
+    "address": "вулиця Володимира Вернадського, 27, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJz46bizXj20ARtbPw1op2g6Q",
+    "name": "Ресторан Сети",
+    "address": "вулиця Надії Алексєєнко, 15А, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJxXqrpsHj20ARapE5RWHDV_M",
+    "name": "Moshe",
+    "address": "вулиця Січових Стрільців, 1, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJMX5eNyv920ARkKqsn9ovTnw",
+    "name": "SPOON",
+    "address": "проспект Дмитра Яворницького, 3, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJrcDQACfj20AR9qUJfb7jzHk",
+    "name": "Big Mama",
+    "address": "вулиця Яворницького, 6, Дніпро, Дніпропетровська область, 49027",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJe9BITafl20ARJlGqBkNFMz4",
+    "name": "FILVAROK na DNIPRI",
+    "address": "37D Сичеславская набережная, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJMzPSR1Dj20ARKXNzujOV-zg",
+    "name": "Roadhouse",
+    "address": "вулиця Ольгерда Бочковського, 42Б, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJXQjUjePj20ARrHxxOYw-sco",
+    "name": "Na:Chasi",
+    "address": "вулиця 93-ї Холодноярської Бригади, 10, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJJXu6RPDj20ARAFdUIeOu6dw",
+    "name": "Пурі Чвені",
+    "address": "вулиця Січових Стрільців, 4, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJF8FXe93i20AR8NMa__R3OH8",
+    "name": "Льотчик",
+    "address": "проспект Дмитра Яворницького, 50, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ1YVhDNzi20ARJmVrQFAsepA",
+    "name": "Сохо",
+    "address": "проспект Дмитра Яворницького, 47А, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJaySwo_Di20ARxM19CuY9I6I",
+    "name": "Felicita",
+    "address": "проспект Дмитра Яворницького, 88, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "ресторан",
+    "search_query": "ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJI74BqSDj20AR0Ya6cc-urdo",
+    "name": "19|20",
+    "address": "вулиця Барикадна, 11А, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJbcrpEsvj20ARv8oeQMsxNHw",
+    "name": "Floyd",
+    "address": "вулиця Січеславська Набережна, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJl74lUjDj20ARqIJ57sjSmY8",
+    "name": "Homie",
+    "address": "вулиця Шевченка, 59, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJa-X9tcLi20ARC__xHwMKMFk",
+    "name": "I feel city cafe",
+    "address": "вул.Королеви Єлизавети ІІ, 7, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJCzdNyS7j20ARpyr-UQR30dQ",
+    "name": "Кофейня",
+    "address": "вулиця Шевченка, 36, Дніпро, Дніпропетровська область, 49020",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJATr8Jjzj20ARkLWxWv6Z1w0",
+    "name": "Sense Cafe",
+    "address": "вулиця Старокозацька, 26, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJUybwwpD820AR2DDdvR9S7yk",
+    "name": "Carousel Cafe and Bierstube Bar",
+    "address": "бульвар Слави, 1Д, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJFfz5V9zi20ARwBqCYQXOIVM",
+    "name": "Три Бобри",
+    "address": "проспект Дмитра Яворницького, 42, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJhRZDCefi20AR-xPuPj8pI40",
+    "name": "Holy Bun",
+    "address": "вулиця Короленка, 1, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJDTnt84bj20AR3QfRnPDAqcU",
+    "name": "Maemo",
+    "address": "вулиця Сергія Єфремова, 22, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJ5dr_f_vj20ARmlAqxN459Jk",
+    "name": "Міське кафе КОХАЙ",
+    "address": "вул. Левка Лук'яненка, 2б, Дніпро, Дніпропетровська область, 49044",
+    "city": "Дніпро",
+    "restaurant_type": "кафе",
+    "search_query": "кафе у Дніпро"
+  },
+  {
+    "place_id": "ChIJ-89_SADj20ARgQ_ipnGM0_Q",
+    "name": "DonVito",
+    "address": "проспект Дмитра Яворницького, 68, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJ_7bHEM7i20ARGx9KM7DkXdw",
+    "name": "Римські пекарні",
+    "address": "вулиця Яворницького, 6, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJDdDBFR9Z2UAR6XbpKbncVtA",
+    "name": "Піцерія UN MOMENTO",
+    "address": "ринок «Образцовий», вулиця Калинова, 82Д, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJ6zTGDOTi20AR0X0SbercSos",
+    "name": "First Wave Pizza Bar",
+    "address": "вулиця Короленка, 3a, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJcwk0pOXi20AR4VTNy1mNqeA",
+    "name": "Смачні традиції",
+    "address": "вулиця Лазаря Глоби, 2, Дніпро, Дніпропетровська область, 49020",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJFce4EQjj20ARp1vbHqFa10Q",
+    "name": "Піца Марвел Marvel pizza",
+    "address": "Парусний провулок, 19, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJlWYzXt3i20ARn1xHNCdTyZ0",
+    "name": "Екопіца",
+    "address": "буд, вулиця Старокозацька, 66 А, Dnipro, Dnipropetrovs'ka oblast, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJaeM2KSjj20AREO9D45E9304",
+    "name": "Subito GAS.",
+    "address": "вулиця Архітектора Олега Петрова, 24, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJcS0308D920AR1YRNJXfy3to",
+    "name": "TOTOPIZZAUA",
+    "address": "бульвар Слави, 6, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJZxvyY8Tj20ARzpPOSMW_fNw",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця В’ячеслава Липинського, 5, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJzzEKrXbj20AR3REqKTMBh2Y",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Михайла Грушевського, 85, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJy__Q2hpZ2UARA-OS_UWDzPU",
+    "name": "L’appetito",
+    "address": "вулиця Зразкова, 1а, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJVVwaManj20ARGi4pykYstGw",
+    "name": "SiSi",
+    "address": "вулиця Січеславська Набережна, 37, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJP8hop-3j20ARiC2X9ygteFc",
+    "name": "Піцерія IQ Pizza",
+    "address": "Тіниста вулиця, 2, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJn0G9J-Pi20ARphtTqlyh8l8",
+    "name": "Челентано",
+    "address": "просп. Лесі Українки, 25/27, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJybgK8aLj20ARGjSEsrdnGSU",
+    "name": "Double D",
+    "address": "вулиця Ламана, 2, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJCfLn0A1X2UARnF1wo2i1MbA",
+    "name": "Піцерія IQ Pizza",
+    "address": "вулиця Князя Вітовта, 73, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJIyHZyALi20AR-P6bx2kL6Gw",
+    "name": "Pizza City",
+    "address": "вулиця Зиновія Матли, 10, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJpVStoUnj20ARpGlfFbE2b8E",
+    "name": "EL PIZZA м. Дніпро, пр. О.Поля, 14",
+    "address": "проспект Олександра Поля, 14, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "піцерія",
+    "search_query": "піцерія у Дніпро"
+  },
+  {
+    "place_id": "ChIJEQJWxy3j20ARurZtyf9KtRA",
+    "name": "Keta Sushi",
+    "address": "вулиця Володимира Вернадського, 17, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ8wWTVsb920ARhXQHG-OEC6Q",
+    "name": "Osama Sushi",
+    "address": "вулиця Набережна Перемоги, 100, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJHZucLPX920ARab1pTXkOJCY",
+    "name": "Sushi Icons , вул. Набережна Перемоги, 112 д",
+    "address": "вулиця Набережна Перемоги, 112 д, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJW_c2Ojvj20ARvwspdvS2I9w",
+    "name": "KOI",
+    "address": "вулиця Магдебурзького права, 2, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJr7CaAKzj20ARE1QAy6q5hmc",
+    "name": "Eco Sushi",
+    "address": "вулиця Михайла Грушевського, 2, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJY2JvcRjj20ARYUA4d6bqI8s",
+    "name": "Eco Sushi",
+    "address": "вулиця Незалежності, 13, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJgU7e1nPj20ARJSqEREYfj44",
+    "name": "MOMENT sushi",
+    "address": "проспект Олександра Поля, 44, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJkcm1RLjh20ARBqbsSxqISVs",
+    "name": "Sushi Dnepr",
+    "address": "вулиця Коробова, 4, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJzzcXi2Pj20ARnS-GHZNYILY",
+    "name": "Myao",
+    "address": "вулиця Шевченка, 59, Дніпро, Дніпропетровська область, 49020",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ5-OXKhrl20ARiSNsVLLCjpU",
+    "name": "Sucheff",
+    "address": "проспект Богдана Хмельницького, 111, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJnQUpVlrj20AR8lwO8THnTSQ",
+    "name": "Arena Sushi",
+    "address": "Стрітенська вулиця, 39, Полтава, Полтавська область, 36011",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJJVT2MNnj20AR3yRueA_Ty7Y",
+    "name": "Tabito Sushi",
+    "address": "проспект Науки, 112, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJT7jUfgDj20ARUSAvbGSrf48",
+    "name": "Sushi AS Bar",
+    "address": "просп. Лесі Українки, 10, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJFe8HDsRZ2UAR-VEb3MTKFRU",
+    "name": "Sushi Story",
+    "address": "вулиця Калинова, 8Д, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJAeou_u3j20ARQcWpgOJP-FA",
+    "name": "Kanagawa Sushi | Доставка суши, ролов, сетов в Днепре",
+    "address": "вулиця В’ячеслава Липинського, 9, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJAbFUgy_j20ARTgPR9cQPjrI",
+    "name": "Доставка суші у Дніпрі - Котосуші",
+    "address": "проспект Гагаріна, 90, вулиця Сонячна Набережна, 2, Dnipro, Dnipropetrovs'ka oblast, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ9Tih95nj20ARwBVcbFZRtYM",
+    "name": "Sushi Dnepr",
+    "address": "вулиця Робоча, 77, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJjWDfyefi20ARhy-9Dc7bU-c",
+    "name": "Casta",
+    "address": "вулиця Володимира Мономаха, 3, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJYa20JyTj20ARYAgCYIu6cLg",
+    "name": "Crazy Crab",
+    "address": "проспект Дмитра Яворницького, 26, Дніпро, Дніпропетровська область, 49044",
+    "city": "Дніпро",
+    "restaurant_type": "суші ресторан",
+    "search_query": "суші ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJlwh0Ga3820AR_T2UExbWKRo",
+    "name": "Тиниця",
+    "address": "вулиця Високовольтна, 8А, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ_8Q81dDj20ARhtLU0oO7qso",
+    "name": "Сучасна їдальня \"е.Да\"",
+    "address": "вулиця Троїцька, 19, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJXbucYfdY2UARB2wlEbJ4fXM",
+    "name": "Україна",
+    "address": "проспект Слобожанський, 125А, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ0eLDl8Hj20ARivZH1v_EWXk",
+    "name": "DE поїсти",
+    "address": "вулиця Троїцька, 20, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJobQdVtbi20AR8ZBb-toqkiU",
+    "name": "Кумася",
+    "address": "вулиця Олеся Гончара, 12, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJe12WPG5Q2UARbVrnjaAiHIk",
+    "name": "Гуляй Поле",
+    "address": "Е 50, Дніпропетровська область",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJx-_yQMLi20ARKKL86nOfDMU",
+    "name": "e.Da",
+    "address": "а, 49000, вулиця Павла Нірінберга, 4, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ-1SpPVzj20AR4AQOvKbG7l8",
+    "name": "Ресторація Intermezzo",
+    "address": "вулиця Шевченка, 59, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJh_dPCtPj20ARW4J5ypIvlfI",
+    "name": "Варенична",
+    "address": "вулиця Короленка, 21, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJKyS7vBHj20ARhWiNKRIwovU",
+    "name": "Confetti",
+    "address": "вулиця Незалежності, 36, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJh6Fy56Hj20AREeQvWvuSZd0",
+    "name": "У головних ролях",
+    "address": "вулиця Магдебурзького права, 2, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJgz2dPADj20ARrA4Vb4jWgrY",
+    "name": "Little Mariupol",
+    "address": "вулиця Святослава Хороброго, 25, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "український ресторан",
+    "search_query": "український ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJhbtKANri20ARoqeH8AoO9O0",
+    "name": "Buon Fratelli",
+    "address": "вулиця Володимира Моссаковського, 1Д, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ90RFhQzj20ARPIumtsq6sBc",
+    "name": "Bon Marito",
+    "address": "проспект Науки, 24, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJrZRAKj_720ARPO06C-HPLFk",
+    "name": "Bene Ristorante",
+    "address": "вулиця Набережна Перемоги, 112Д, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJp84z6SLj20ARHJpyC-Ufc5c",
+    "name": "Tetto Verde",
+    "address": "просп. Лесі Українки, 25/27, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJ25mBZAnj20AR92ikfwdSnc4",
+    "name": "Pane E Vino",
+    "address": "вулиця Української Добровольчої Армії, 8г, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJpcYxvOLi20ARnBuJ6q_iZYw",
+    "name": "Giannivino",
+    "address": "проспект Дмитра Яворницького, 30, Дніпро, Дніпропетровська область, 49000",
+    "city": "Дніпро",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Дніпро"
+  },
+  {
+    "place_id": "ChIJja1JDWXj20ARNutSKXZedBo",
+    "name": "Take it easy",
+    "address": "вулиця Дмитра Донцова, 2а, Дніпро, Дніпропетровська область, 49027",
+    "city": "Дніпро",
+    "restaurant_type": "італійський ресторан",
+    "search_query": "італійський ресторан у Дніпро"
+  }
+]

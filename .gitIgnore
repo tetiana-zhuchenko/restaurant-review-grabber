@@ -9,5 +9,5 @@ __pycache__/
 *.pyo
 
 # Data files (optional - if you don't want to commit datasets)
-*.json
+
 !requirements.txt
